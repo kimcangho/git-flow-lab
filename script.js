@@ -10,6 +10,11 @@ const poems = [
     image: "pizza.jpeg",
   },
   {
+    author: "David",
+    poem: "Roses are red, violets are blue  wait, aren't violets actually a purple hue? ",
+    image: "bee.jpeg", 
+  },
+  {
     author: "Ernie",
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
